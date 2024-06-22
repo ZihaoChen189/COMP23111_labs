@@ -1,0 +1,19 @@
+#navigation-bar {
+    position:           fixed;
+    top:                90px;
+    width:              300px;
+    background-color: #CCEEC8;
+}
+
+
+#text-position {
+    font-family: "Arial";  
+    position:    absolute;
+    top:         0px;
+    left:        330px;
+}
+
+
+.error {
+    color:red;
+}
